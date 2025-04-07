@@ -1,6 +1,6 @@
 # 🧠 Alzheimer's Disease Classification
 
-This project uses trains Scikit-Learn models on a cleaned Alzheimers Data Set to assess performance.
+This project uses creates and trains a Decision Tree Classifier algorithm, and assess its preformance on an Alzheimers Dataset
 
 ## 📊 Model Info
 
